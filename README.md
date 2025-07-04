@@ -59,9 +59,15 @@ The bonus rating file was unpivoted and merged in Power BI using Rating and Depa
 - In Lagos, 4 more females than men earned $110000 and above, also 5 more females than males earned between the range $90000-$99999.
 - With regards to the increment regulation adopted, we still have 654 employees being paid less than $90000
 and 292 employees earning above $90000.
+-The total bonus payment to be distributed amongst male and female employees is 1 million each.
+- The total gross payment for male employees after adding bonuses summed up to $34 million, while the female employees summed up to $33 million.
+- Based on the region, the highest total gross payment for staffs are from Kaduna followed by Abuja and then Lagos.
 
 ### Conclusion. 
-The Palmora group isn't doing so badly when it comes to gender equality 
+The Palmora group isn't doing so badly when it comes to gender equality amongst their staff, but there's a little gap when it comes to the payment structure.
+
+### Recommendation.
+
 
 
 
