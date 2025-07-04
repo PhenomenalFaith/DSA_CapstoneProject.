@@ -37,6 +37,9 @@ Palmora Group is a manufacturing company in Nigeria with branches in Lagos, Kadu
 
 The bonus rating file was unpivoted and merged in Power BI using Rating and Department as the matching columns. Then, custom columns were used to calculate Bonus, Gross Salary, etc. A conditional column was used to separate the number of employees who were paid below $90000 and above $90000 to see how compliant Palmora is with the new regulation.
 
+### Visual Representation.
+
+
 
 
 
