@@ -5,6 +5,7 @@
 - [Tools Used.](#Tools-Used.)
 - [Data Cleaning.](#Data-Cleaning.)
 - [Visual Representation.](#Visual-Representation.)
+- [Insights.](Insights.)
 - [Conclusion.](#Conclusion.)
 - [Recommendation.](#Recommendation.)
 - [Author.](#Author.)
@@ -18,7 +19,8 @@ Palmora Group is a manufacturing company in Nigeria with branches in Lagos, Kadu
 - Compliance with the new regulation of minimum payment of $90,000 to employees.
 - Pay Distribution in the range of $10,000 and the number of employees within the category.
 - Bonus according to Ratings for the different departments.
-- Total amount (bonus inclusive) paid to the employees based on the regions.
+- Total amount (bonus inclusive) paid to the employees based on the regions. 
+
 
 
  ### Tools Used.
@@ -40,7 +42,15 @@ The bonus rating file was unpivoted and merged in Power BI using Rating and Depa
 ### Visual Representation.
 
 
+![HR data Capstone project_page-0001](https://github.com/user-attachments/assets/61b0c7fb-e6b8-47de-9f40-bc87bdaf34bc)
 
 
+
+![HR data Capstone project_page-0002](https://github.com/user-attachments/assets/e269927d-fdb1-4782-98c9-1c28667db59a)
+
+
+### Insights.
+- The gender distribution in Palmora Manufacturing Company shows a slight difference between the two genders, 0.6 % disparity.
+- Based on regions, Kaduna had the highest number of male staffs with a difference of 13 compared to the female staff there; Abuja following had 
 
 
