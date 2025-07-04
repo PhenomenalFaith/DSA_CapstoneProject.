@@ -58,7 +58,7 @@ The bonus rating file was unpivoted and merged in Power BI using Rating and Depa
 - Across the three regions, Abuja had more females earning $80000 -$89999 followed by $40000-$49999, then $30000-$39999 with more men as compared to females earning above $90000. In Kaduna, more females earned within the range $90000-$100999. We can also see that 16 more males than females  earned $110,000 and above.
 - In Lagos, 4 more females than men earned $110000 and above also 5 more females than males earned between the range $90000-$99999.
 - With regards to the increment regulation adopted, we still have 654 employees being paid less than $90000
-
+and 292 employees earning above $90000.
 
 
 
